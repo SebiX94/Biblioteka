@@ -1,0 +1,52 @@
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\bin\Debug\UsersClient.exe.config
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\bin\Debug\UsersClient.exe
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\bin\Debug\UsersClient.pdb
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\bin\Debug\RestSharp.dll
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\bin\Debug\RestSharp.xml
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\obj\Debug\UsersClient.csprojAssemblyReference.cache
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\obj\Debug\UsersClient.Form1.resources
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\obj\Debug\UsersClient.Properties.Resources.resources
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.GenerateResource.cache
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.CoreCompileInputs.cache
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.CopyComplete
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\obj\Debug\UsersClient.exe
+C:\Users\skrajewski\source\repos\UsersClient\UsersClient\obj\Debug\UsersClient.pdb
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\bin\Debug\UsersClient.exe.config
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\bin\Debug\UsersClient.exe
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\bin\Debug\UsersClient.pdb
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\bin\Debug\RestSharp.dll
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\bin\Debug\RestSharp.xml
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\obj\Debug\UsersClient.csprojAssemblyReference.cache
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\obj\Debug\UsersClient.Form1.resources
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\obj\Debug\UsersClient.Properties.Resources.resources
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.GenerateResource.cache
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.CoreCompileInputs.cache
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.CopyComplete
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\obj\Debug\UsersClient.exe
+C:\Users\kkorpas\Desktop\repos\UsersClient\UsersClient\obj\Debug\UsersClient.pdb
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\bin\Debug\UsersClient.exe.config
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\bin\Debug\UsersClient.exe
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\bin\Debug\UsersClient.pdb
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\bin\Debug\RestSharp.dll
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\bin\Debug\RestSharp.xml
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\obj\Debug\UsersClient.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\obj\Debug\UsersClient.Form1.resources
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\obj\Debug\UsersClient.Properties.Resources.resources
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.CopyComplete
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\obj\Debug\UsersClient.exe
+C:\Users\Chris\source\repos\ForSebastian\UsersClient\UsersClient\obj\Debug\UsersClient.pdb
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\bin\Debug\UsersClient.exe.config
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\bin\Debug\UsersClient.exe
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\bin\Debug\UsersClient.pdb
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\bin\Debug\RestSharp.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\bin\Debug\RestSharp.xml
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\obj\Debug\UsersClient.csprojAssemblyReference.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\obj\Debug\UsersClient.Form1.resources
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\obj\Debug\UsersClient.Properties.Resources.resources
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.GenerateResource.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.CoreCompileInputs.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\obj\Debug\UsersClient.csproj.CopyComplete
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\obj\Debug\UsersClient.exe
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\UsersClient\UsersClient\obj\Debug\UsersClient.pdb

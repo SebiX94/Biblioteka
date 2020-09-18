@@ -1,0 +1,636 @@
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.exe
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.deps.json
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.runtimeconfig.json
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.runtimeconfig.dev.json
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.pdb
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csprojAssemblyReference.cache
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.AssemblyInfoInputs.cache
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.AssemblyInfo.cs
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.RazorTargetAssemblyInfo.cache
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\staticwebassets\WebApiBiblioteka.StaticWebAssets.Manifest.cache
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\staticwebassets\WebApiBiblioteka.StaticWebAssets.xml
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.pdb
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.genruntimeconfig.cache
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csproj.CopyComplete
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\skrajewski\source\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.exe
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.deps.json
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.runtimeconfig.json
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.runtimeconfig.dev.json
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.pdb
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csprojAssemblyReference.cache
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.AssemblyInfoInputs.cache
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.AssemblyInfo.cs
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.RazorTargetAssemblyInfo.cache
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csproj.CopyComplete
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\staticwebassets\WebApiBiblioteka.StaticWebAssets.Manifest.cache
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\staticwebassets\WebApiBiblioteka.StaticWebAssets.xml
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.dll
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.pdb
+C:\Users\kkorpas\Desktop\repos\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.genruntimeconfig.cache
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.exe
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.deps.json
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.runtimeconfig.json
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.pdb
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.AssemblyInfo.cs
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csproj.CopyComplete
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\staticwebassets\WebApiBiblioteka.StaticWebAssets.Manifest.cache
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\staticwebassets\WebApiBiblioteka.StaticWebAssets.xml
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.dll
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.pdb
+C:\Users\Chris\source\repos\ForSebastian\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.genruntimeconfig.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.exe
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.deps.json
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.runtimeconfig.json
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.runtimeconfig.dev.json
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\WebApiBiblioteka.pdb
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csprojAssemblyReference.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.AssemblyInfoInputs.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.AssemblyInfo.cs
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.RazorTargetAssemblyInfo.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.csproj.CopyComplete
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\staticwebassets\WebApiBiblioteka.StaticWebAssets.Manifest.cache
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\staticwebassets\WebApiBiblioteka.StaticWebAssets.xml
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.dll
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.pdb
+C:\Users\skrajewski\Documents\Visual Studio 2019\Projekt\ForSebastian-master\WebApiBiblioteka\WebApiBiblioteka\obj\Debug\netcoreapp3.1\WebApiBiblioteka.genruntimeconfig.cache
